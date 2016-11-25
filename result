@@ -1,0 +1,93 @@
+xavier: 6.0, learning_rate = 1e-4) test accuracy: 0.89675
+xavier: 5.0) test accuracy: 0.9792
+xavier: 4.0) test_accuracy: 0.9878, 0.9877
+xavier: 4.0)
+test_accuracy of set1: 0.9825
+test_accuracy of set2: 0.9024
+test_accuracy of set3: 0.7099
+test_accuracy of set4: 0.9239
+test_accuracy of set5: 0.7642
+xavier: 4.0)
+test_accuracy of set1: 0.9569
+test_accuracy of set2: 0.8529
+test_accuracy of set3: 0.6798
+test_accuracy of set4: 0.9117
+test_accuracy of set5: 0.7717
+xavier: 4.0)
+test_accuracy of set1: 0.9582
+test_accuracy of set2: 0.8465
+test_accuracy of set3: 0.6794
+test_accuracy of set4: 0.9089
+test_accuracy of set5: 0.7569
+xavier: 3.0)
+test_accuracy of set1: 0.9852
+test_accuracy of set2: 0.8988
+test_accuracy of set3: 0.7163
+test_accuracy of set4: 0.9499
+test_accuracy of set5: 0.7793
+xavier: 2.0) 
+test_accuracy of set1: 0.9868
+test_accuracy of set2: 0.9122
+test_accuracy of set3: 0.7063
+test_accuracy of set4: 0.9631
+test_accuracy of set5: 0.7543
+xavier: 2.0, learning_rate = 1e-3)
+test_accuracy of set1: 0.3607
+test_accuracy of set2: 0.3978
+test_accuracy of set3: 0.3794
+test_accuracy of set4: 0.4027
+test_accuracy of set5: 0.3478
+xavier: 2.0, learning_rate = 1e-4) training time: 400.76
+test_accuracy of set1: 0.9911
+test_accuracy of set2: 0.9086
+test_accuracy of set3: 0.7138
+test_accuracy of set4: 0.9777
+test_accuracy of set5: 0.8007
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-3) training time: x
+fail.....maybe too big reg_scale
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-6, batch_size = 50? 100?) training time: 476.99
+test_accuracy of set1: 0.9764
+test_accuracy of set2: 0.9071
+test_accuracy of set3: 0.7059
+test_accuracy of set4: 0.9626
+test_accuracy of set5: 0.7818
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-5, batch_size = 50) training time: x
+test_accuracy of set1: 0.9862
+test_accuracy of set2: 0.8672
+test_accuracy of set3: 0.7041
+test_accuracy of set4: 0.9512
+test_accuracy of set5: 0.8070
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 5e-4, batch_size = 50) training time: 464.636
+test_accuracy of set1: 0.9904
+test_accuracy of set2: 0.8013
+test_accuracy of set3: 0.7037
+test_accuracy of set4: 0.9702
+test_accuracy of set5: 0.7487
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 0, batch_size = 50) training time: 237.644
+test_accuracy of set1: 0.9849
+test_accuracy of set2: 0.8770
+test_accuracy of set3: 0.7138
+test_accuracy of set4: 0.9290
+test_accuracy of set5: 0.7485
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-4 (W1~W5), batch_size = 50) training time: 352.495
+test_accuracy of set1: 0.9879
+test_accuracy of set2: 0.9179
+test_accuracy of set3: 0.7282
+test_accuracy of set4: 0.9610
+test_accuracy of set5: 0.7620
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-3 (W1~W5), batch_size = 50) training time: 356.358
+test_accuracy of set1: 0.9869
+test_accuracy of set2: 0.7673
+test_accuracy of set3: 0.6968
+test_accuracy of set4: 0.9716
+test_accuracy of set5: 0.7275
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-2 (W2~W10), batch_size = 50) training time: x
+fail...not good
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 2e-3 (W3~W9), batch_size = 50) training time: 
+fail...not good
+xavier: 2.0, learning_rate = 1e-4, reg_scale = 1e-3 (W2~W10), batch_size = 50) training time: 545.602
+test_accuracy of set1: 0.9946
+test_accuracy of set2: 0.8661
+test_accuracy of set3: 0.6958
+test_accuracy of set4: 0.9919
+test_accuracy of set5: 0.7525
